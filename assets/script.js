@@ -123,7 +123,6 @@ function generatePassword(){
 
   
   password = passArray.join("");
-  alert("Your password is: \n\n"+password);
   return password;
   
 }
